@@ -1,0 +1,36 @@
+_repo: The-Windy-Hill_26537
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 26537-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meigs, Cornelia
+    alias: Meigs, Cornelia Lynde
+    birthdate: 1884
+    deathdate: 1973
+    gutenberg_agent_id: '32079'
+    url: http://www.gutenberg.org/2009/agents/32079
+    wikipedia: http://en.wikipedia.org/wiki/Cornelia_Meigs
+description: Visiting their uncle one summer, Oliver and Janet Peyton become more
+  and more puzzled by the behavior of the hostile Anthony Crawford, another cousin
+  of whom they had never heard. Who is this unpleasant man, and what strange hold
+  does he have over Cousin Jasper? Could the answer lie in the Beeman's stories about
+  the history of the valley, and their family?
+gutenberg_issued: '2008-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Runaway teenagers -- Fiction'
+title: The Windy Hill
+url: http://www.gutenberg.org/ebooks/26537
